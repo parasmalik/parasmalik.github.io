@@ -73,3 +73,16 @@ footer {
   color: #fff;
   margin-top: 2rem;
 }
+
+#highlights ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+#highlights li {
+  background: #f9f9f9;
+  margin: 0.5rem 0;
+  padding: 0.8rem 1rem;
+  border-left: 4px solid #0073e6;
+  border-radius: 4px;
+}
